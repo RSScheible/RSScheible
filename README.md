@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RSScheible called Ste
 - 👀 I’m interested in motorcycling, old BMWs, Photovoltaic, KNX
-- 🌱 I’m currently learning Chinese and Spanish
-- 💞️ I’m looking to collaborate on Wallbox Integration
-- 📫 How to reach me rss@gmx.eu
+- 💞️ I’m looking to collaborate on projects for house automation, mainly to save or better use energy
+- 📫 How to reach me rsscheible@gmail.com
 
 <!---
 RSScheible/RSScheible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
